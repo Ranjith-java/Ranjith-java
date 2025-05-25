@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **learn and deep dive in software devlopment**
 
-- 👨‍💻 All of my projects are available at [loading........](loading........)
+- 👨‍💻 All of my projects are available at webpage will be published soon......
 
-- 📝 I regularly write articles on [soon........](soon........)
+- 📝 I regularly write articles on coming soon.....
 
 - 💬 Ask me about **JS,Java,HTML,SQL**
 
