@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjith</h1>
-<h3 align="center">Very desperate and eager to start my career in IT as developer</h3>
+<h3 align="center">I'm a passionate individual making a purposeful career with 6 years of overall experience, including 3 years in sales within the Telecommunications (VoIP) sector. My experience in sales taught me the importance of understanding user needs, clear communication, and solving real-world problems—skills I now apply to software development. Recently, I completed a comprehensive Java Full Stack Development course and built strong skills in Java, Spring Boot, Maven, SQL, IntelliJ, and VS Code. I'm currently expanding my knowledge in React and Docker to become a more versatile full stack developer.</h3>
 
 - 🔭 I’m currently working at **Voicetec which is a Telecom domain,where myself placed in sales**
 
@@ -9,9 +9,7 @@
 
 - 🤝 I’m looking for help with **learn and deep dive in software devlopment**
 
-- 👨‍💻 All of my projects are available at [loading........](loading........)
-
-- 📝 I regularly write articles on [soon........](soon........)
+- 👨‍💻 All of my projects are available at [https://ranjithjava.netlify.app/](https://ranjithjava.netlify.app/)
 
 - 💬 Ask me about **JS,Java,HTML,SQL**
 
